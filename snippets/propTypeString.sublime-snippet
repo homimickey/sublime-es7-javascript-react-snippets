@@ -1,6 +1,6 @@
 <snippet>
 <content><![CDATA[PropTypes.string,]]></content>
 <tabTrigger>pts</tabTrigger>
-<scope>source.js,source.ts</scope>
+<scope>source.js,source.ts,source.jsx,source.tsx</scope>
 <description>propTypeString</description>
 </snippet>

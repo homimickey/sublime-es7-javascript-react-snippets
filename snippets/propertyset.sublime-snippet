@@ -4,6 +4,6 @@
 }
 ]]></content>
 <tabTrigger>pse</tabTrigger>
-<scope>source.js,source.ts</scope>
+<scope>source.js,source.ts,source.jsx,source.tsx</scope>
 <description>propertySet</description>
 </snippet>
