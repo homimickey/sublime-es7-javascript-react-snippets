@@ -14,7 +14,7 @@
     "react",
     "babel"
   ],
-  "author": "Lasse T.",
+  "author": "homimickey",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.4.4",
